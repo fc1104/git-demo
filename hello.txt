@@ -4,3 +4,5 @@ nihao 444
 ni555
 hao master
 a
+hao
+a  hot-fix
